@@ -12,6 +12,8 @@ un poco de repaso.
  
 ## Índice
 - [Requisitos previos](#requisitos_previos)
+- [Reconocimiento](#reconocimiento)
+  * [Nmap](#nmap) 
 
 
 <a name="requisitos_previos"></a>
